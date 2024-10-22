@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "num1";
+    src: local("num1"),
+    url(./fonts/Raleway-ExtraBold.woff);
+}
+@font-face {
+    font-family: "num2";
+    src: local("num2"),
+    url(./fonts/Raleway-Regular.woff);
+}
